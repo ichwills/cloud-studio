@@ -86,7 +86,7 @@ a:hover {
           color: #888; }
         .App-resources .resources-list .list-item:hover h4 {
           color: #006EFF; }
-  .App-footer {
+  footer {
     padding: 30px 15px;
     padding-bottom: 50px;
     background: #F7F8FA; }
